@@ -75,6 +75,5 @@ public class RobotRoute {
             }
             robot.stepForward();
         }
-      //write your solution here
     }
 }
